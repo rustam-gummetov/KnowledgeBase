@@ -1,0 +1,7 @@
+C:\Users\777\source\repos\KnowledgeBase\KnowledgeBase\obj\Debug\KnowledgeBase.csprojAssemblyReference.cache
+C:\Users\777\source\repos\KnowledgeBase\KnowledgeBase\obj\Debug\KnowledgeBase.csproj.CoreCompileInputs.cache
+C:\Users\777\source\repos\KnowledgeBase\KnowledgeBase\bin\Debug\KnowledgeBase.exe.config
+C:\Users\777\source\repos\KnowledgeBase\KnowledgeBase\bin\Debug\KnowledgeBase.exe
+C:\Users\777\source\repos\KnowledgeBase\KnowledgeBase\bin\Debug\KnowledgeBase.pdb
+C:\Users\777\source\repos\KnowledgeBase\KnowledgeBase\obj\Debug\KnowledgeBase.exe
+C:\Users\777\source\repos\KnowledgeBase\KnowledgeBase\obj\Debug\KnowledgeBase.pdb
